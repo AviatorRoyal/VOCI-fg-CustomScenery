@@ -6,9 +6,9 @@
 
     <threshold>
 
-      <lon>77.088044</lon>
+      <lon>76.3849910</lon>
 
-      <lat>28.570492</lat>
+      <lat>10.1505452</lat>
 
       <rwy>09</rwy>
 
@@ -22,17 +22,17 @@
 
     <threshold>
 
-      <lon>77.116961</lon>
+      <lon>76.4160001</lon>
 
-      <lat>28.569822</lat>
+      <lat>10.1516713</lat>
 
       <rwy>27</rwy>
 
       <hdg-deg>271.52</hdg-deg>
 
-      <displ-m>152.0</displ-m>
+      <displ-m>0.0</displ-m>
 
-      <stopw-m>0.0</stopw-m>
+      <stopw-m>59.0</stopw-m>
 
     </threshold>
 
